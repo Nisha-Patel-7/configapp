@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to My Cards related to local APIs"
+  contactDetails:
+    name: "abc accounts - Developer1"
+    email: "abc@mybank.com"
+  onCallSupport:
+    - 1234567
+    - 9876543

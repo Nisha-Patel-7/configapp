@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to My Loans related to prod"
+  contactDetails:
+    name: "prod accounts - Developer"
+    email: "prod@mybank.com"
+  onCallSupport:
+    - 2222222
+    - 3333333

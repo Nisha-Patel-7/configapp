@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to My Cards related to qa"
+  contactDetails:
+    name: "qa accounts - Developer1"
+    email: "qa@mybank.com"
+  onCallSupport:
+    - 4444444
+    - 5555555
