@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to My Loans related to qa"
+  message: "Welcome to My LOANS related to qa"
   contactDetails:
-    name: "qa accounts - Developer1"
-    email: "qa@mybank.com"
+    name: "qa loans - Developer1"
+    email: "{cipher}85b829b0280a80a5c7263426341ccb818c9a47661007429b2056114c05e7a2569b32dcfedc0501017eb93b1cf0c74cd1"
   onCallSupport:
     - 4444444
     - 5555555
