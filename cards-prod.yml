@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to My Cards related to prod"
+  message: "Welcome to My Cards related to PRODUCTION CARDS"
   contactDetails:
     name: "prod accounts - Developer"
     email: "prod@mybank.com"
