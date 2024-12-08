@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to My Cards related to local APIs"
+  message: "Welcome to My Cards related to GIT LOCAL APIs"
   contactDetails:
     name: "abc accounts - Developer1"
     email: "abc@mybank.com"
