@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to My Accounts related to prod"
+  message: "Welcome to My Accounts related to PRODUCTION ACCOUNTS"
   contactDetails:
     name: "prod accounts - Developer"
     email: "prod@mybank.com"
