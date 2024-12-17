@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to My Accounts related to PRODUCTION ACCOUNTS"
   contactDetails:
-    name: "prod accounts - Developer(GIT)"
+    name: "prod accounts - Developer(GIT bus refresh accounts)"
     email: "prod@mybank.com"
   onCallSupport:
     - 2222222
