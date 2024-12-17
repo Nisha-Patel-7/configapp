@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to My Cards related to PRODUCTION CARDS"
   contactDetails:
-    name: "prod cards - Developer(GIT)"
+    name: "prod cards - Developer(GIT Busrefresh cards)"
     email: "prod@mybank.com"
   onCallSupport:
     - 2222222
