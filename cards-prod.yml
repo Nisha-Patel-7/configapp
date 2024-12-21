@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to My Cards related to PRODUCTION CARDS"
+  message: "Welcome to My Cards related to PRODUCTION CARDS extra content"
   contactDetails:
     name: "prod cards - Developer(GIT Busrefresh cards) cards new ...."
     email: "prod@mybank.com"
