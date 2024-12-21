@@ -4,7 +4,7 @@ build:
 loans:
   message: "Extra content Welcome to My Loans related to PRODUCTION LOANS"
   contactDetails:
-    name: "prod loans - Developer(GIT busrefresh loans) new loans..."
+    name: "prod loans - Developer(GIT busrefresh loans) new loans...LOANS"
     email: "prod@mybank.com"
   onCallSupport:
     - 2222222
