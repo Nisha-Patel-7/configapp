@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to My Loans related to local APIs"
+  message: "Welcome to My Loans related to DOCKER.LOANS.. APIs"
   contactDetails:
     name: "abc accounts - Developer1"
     email: "abc@mybank.com"
